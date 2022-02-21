@@ -9,7 +9,7 @@
 - **Taehoon Kim**
 
 ## About
-- 이 레포지토리는 R을 활용하여 데이터를 분석하는 분석 템플릿을 담고 있습니다. 
+- 이 레포지토리는 R을 활용하여 인지 심리 & 인지 신경 과학 분야의 요약 데이터를 분석하는 분석 템플릿을 담고 있습니다. 
 - Paired T-Test, rmANOVA, Correlation, Regression 등을 수행합니다.
 
 ## License 
